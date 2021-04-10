@@ -1,5 +1,3 @@
-# Deep Learning Project from the Master MVA program. Done with my friend Kodjo Mawuena Amekoe. More to come...
-
 #### Final Project Submission for the Deep Learning course at the École Normale Supérieure (Master MVA)!
 
 #### Group: Dorian Desblancs, Kodjo Mawuena Amekoe
